@@ -1,4 +1,6 @@
 # Hello-World
 
-Hey human! This is the first time i try such things! 
-It is amazing!
+
+Something just WOW
+#play it!
+
